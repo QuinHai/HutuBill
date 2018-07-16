@@ -1,6 +1,6 @@
 # HutuBill
 A bill manage system for java learning
 
-It's a project whitch is imitating HutuBill(http://how2j.cn/k/hutubill/hutubill-tutorials)
+It's imitating HutuBill(http://how2j.cn/k/hutubill/hutubill-tutorials/710.html)
 
 I use hibernate to rebuild the jdbc part.
